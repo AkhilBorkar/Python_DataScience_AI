@@ -1,3 +1,4 @@
+__author__ = "Akki"
 import tweepy
 from textblob import TextBlob
 
